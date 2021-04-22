@@ -10,7 +10,7 @@
    
 
 </head>
-<body style="background:blue"  background text="black">
+<body style="background:url("images/IMG_7922")  background text="black">
    <p><b>HI.I'M SUNDAY</b> <br> <b>18/67ms/00212</b></p> <br>  <right><img src="images/IMG_7922.jpg" alt="status" style="width: 15%;" ><b> A wed developer / Designer</b><br><br></right>
 
    <p><b> PROFILE:</b> <br>i am a student of kwara state university malete from the college of information and communication technology,in the department of computer science, <br> i hail from otukpo local government area in benue state  </p> 
