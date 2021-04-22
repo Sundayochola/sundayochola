@@ -1,13 +1,13 @@
 
 
-<!DOCTYPE html>
+
 <html lang="en">
 
 <head>
    <meta charset="UTF-8">
    <meta http-equiv="X-UA-Compatible" content="IE=edge">
    <meta name content="width=device-width, initial-scale=1.0">
-   <title> </title>
+   
 
 </head>
 <body style="background:blue"  background text="black">
